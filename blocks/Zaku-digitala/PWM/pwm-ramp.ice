@@ -35,7 +35,7 @@
           "id": "5b0e61ef-dbe9-4bf0-a196-c028b2d57872",
           "type": "basic.output",
           "data": {
-            "name": "pwm",
+            "name": "led",
             "pins": [
               {
                 "index": "0",
@@ -611,10 +611,10 @@
     },
     "state": {
       "pan": {
-        "x": 83.3774,
-        "y": -13.0801
+        "x": 59.5642,
+        "y": 65.8838
       },
-      "zoom": 0.9037
+      "zoom": 0.4076
     }
   },
   "dependencies": {
