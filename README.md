@@ -13,6 +13,6 @@ Agradecimientos:
 
 Dicho curso se ha desarrollado gracias a la ayuda del grupo de FPGAwars. 
 
-Parte del contenido del curso se basa en el [extraordinario trabajo](https://https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial) de Obijuan.
+Parte del contenido del curso se basa en el [extraordinario trabajo](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial) de Obijuan.
 
 Esker mila denori!!! 
